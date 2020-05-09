@@ -1,6 +1,6 @@
 # CSE535-Assignment2
 
-1. Create a files for data and labels in one of 2 ways.
+1. Create a files for data and labels in one of 2 ways.  
 	(a) Use the shared link of the data which was provided and run the MC_Assignment_2_Data Preparation_Google_Collab.ipynb file
 	
 	OR
